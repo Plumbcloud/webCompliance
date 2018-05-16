@@ -1,0 +1,287 @@
+[
+    [
+        "C:\\shan\\web compliance\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526454695011,
+            "changeTime": 1526454695011,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526454695011,
+            "changeTime": 1526454695011,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526456063843,
+            "changeTime": 1526456063843,
+            "contentHash": "a9e496d44eea627204375b5986ec8c0ca0d44637",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526454695011,
+            "changeTime": 1526454695011,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526456063837,
+            "changeTime": 1526456063837,
+            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default\\layouts\\Account-Account (Marketing) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9752,
+            "modifiedTime": 1526456063827,
+            "changeTime": 1526456063827,
+            "contentHash": "42e262a9ca338b4a442ffb21743b5c08f34e1ff8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default\\layouts\\Account-Account (Sales) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9704,
+            "modifiedTime": 1526456063820,
+            "changeTime": 1526456063820,
+            "contentHash": "d96df8e1ec7b81829c660073838e2cd287da988a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default\\layouts\\Account-Account (Support) Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9752,
+            "modifiedTime": 1526456063838,
+            "changeTime": 1526456063838,
+            "contentHash": "719c63e39faed2f583f993c2654cc53f037e7f47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9704,
+            "modifiedTime": 1526456063833,
+            "changeTime": 1526456063833,
+            "contentHash": "d90f7a47d23a0cb0f3001349431c7a8b7728a02d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526456063812,
+            "changeTime": 1526456063812,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526456063812,
+            "changeTime": 1526456063812,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526456063813,
+            "changeTime": 1526456063813,
+            "contentHash": "bf710bfe1e54a13ad329eb617be9276d1b8e487d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default\\objects\\Account\\fields\\Shiv__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default\\objects\\Account\\fields\\Shiv__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 360,
+            "modifiedTime": 1526456063813,
+            "changeTime": 1526456063813,
+            "contentHash": "05bb9510819f0e0fcb6ff3ef728d3f3dd4cb3a69",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default\\pages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526456063804,
+            "changeTime": 1526456063804,
+            "contentHash": "81cb89ed3f933e920b8c6c1aa96be19bb9db7709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default\\pages\\Shiv.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default\\pages\\Shiv.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 169,
+            "modifiedTime": 1526456063805,
+            "changeTime": 1526456063805,
+            "contentHash": "a4f45d62326c2de4ddf79ea579988e52a246e9db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default\\pages\\Shiv.page-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default\\pages\\Shiv.page-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 280,
+            "modifiedTime": 1526456063803,
+            "changeTime": 1526456063803,
+            "contentHash": "f39433d56b8a19b1af13d2783dfb0597d90172eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526456364282,
+            "changeTime": 1526456364282,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17737,
+            "modifiedTime": 1526456063849,
+            "changeTime": 1526456063849,
+            "contentHash": "0f9193e7efb226a9018843a4e7c1a8811de6fd55",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\shan\\web compliance",
+        {
+            "state": "u",
+            "sourcePath": "C:\\shan\\web compliance",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1526454836629,
+            "changeTime": 1526454836629,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
